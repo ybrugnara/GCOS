@@ -1,0 +1,28 @@
+Station;Date;Metadata;Notes
+Meyer;31.05.1761;X;Change in the number of observations per day available
+Meyer;31.12.1762;X;Change in the number of observations per day available
+Muralt;31.12.1769;X;Change in the number of observations per day available
+Muralt;30.04.1779;X;Change in the number of observations per day available and data gap
+Muralt;30.06.1782;;
+Muralt;31.05.1788;;
+Muralt;31.12.1788;;
+Muralt;30.06.1790;;
+Hirzel;31.12.1762;;Long gap
+Hirzel;31.12.1767;;Short data gap
+Hirzel;30.09.1768;;
+Hirzel;13.10.1774;;Short data gap
+Hirzel;31.12.1780;;Long gap
+Hirzel;31.12.1781;;Short data gap
+Hirzel;16.10.1797;;Short data gap
+Feer;30.04.1808;;Many small gaps
+Feer;30.06.1817;;
+Hofmeister;28.08.1835;X;Probable relocation
+Hofmeister;08.11.1836;X;New thermometer
+NGZ;08.11.1836;X;New thermometer
+NGZ;31.12.1846;;Change in the style of data publication
+NGZ;31.12.1848;X;Change in the number of observations per day available
+NGZ;31.12.1851;X;Change in the number of observations per day available
+Kuesnacht;31.03.1854;;
+Kuesnacht;30.09.1854;;
+Kuesnacht;08.12.1855;;Short data gap
+Winterthur;30.09.1859;;
